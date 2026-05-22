@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://discord.c99.nl/widget/theme-4/1507338255169753118.png"/>
+<img src="https://cardivo.vercel.app/api?name=riotfv&description=C%23%20%7C%20Rust%20%7C%20TypeScript%20Developer&image=https://cdn.discordapp.com/embed/avatars/0.png&backgroundColor=%230d1117&pattern=topography&colorPattern=%23ffffff&site=github.com/riotfv"/>
 
 <br><br>
 
@@ -21,37 +21,45 @@
 
 ---
 
-<p align="center">
+<div align="center">
+
+##  Tech Stack
+
+<img src="https://skillicons.dev/icons?i=cs,rust,ts,cpp,mongodb,nodejs,git,github,vscode,visualstudio" />
+
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=riotfv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riotfv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riotfv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=riotfv&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riotfv&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=riotfv&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
+</div>
 
 ---
 
