@@ -1,65 +1,62 @@
+<p align="center">
+
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</p>
+
+---
+
 <div align="center">
 
-<img src="https://lanyard.cnrad.dev/api/1507338255169753118?theme=dark&bg=1a1b27&animated=true&hideDiscrim=true&borderRadius=25px&idledMessage=I'm%20not%20currently%20doing%20anything!" />
+<img src="https://discord.c99.nl/widget/theme-4/1507338255169753118.png"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=riotfv;C%23+%7C+Rust+%7C+TypeScript+Developer;Building+cool+shit;Always+online..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=riotfv;C%23+%7C+Rust+%7C+TypeScript;Building+cool+projects..." />
 
 </div>
 
 ---
 
-<div align="center">
+<p align="center">
 
-##  Tech Stack
+<img src="https://github-readme-stats.vercel.app/api?username=riotfv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-<img src="https://skillicons.dev/icons?i=cs,rust,ts,cpp,git,github,vscode,visualstudio,nodejs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riotfv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-</div>
-
----
-
-<div align="center">
-
-##  Stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=riotfv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riotfv&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-##  Streak
+<img src="https://streak-stats.demolab.com?user=riotfv&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-<img src="https://streak-stats.demolab.com?user=riotfv&theme=tokyonight&hide_border=true&background=1A1B27" />
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-##  Socials
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riotfv&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
 
-<a href="https://discord.com/users/1507338255169753118">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-<a href="https://github.com/riotfv">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=riotfv&label=Profile+Views&color=5865F2&style=for-the-badge" />
+<img src="https://github-profile-trophy.vercel.app/?username=riotfv&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-</div>
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=riotfv&label=Profile+Views&color=5865F2&style=for-the-badge"/>
+
+</p>
