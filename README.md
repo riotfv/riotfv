@@ -1,3 +1,4 @@
+## Hello My Name Is shxrk And Im A Developer
 <p align="center">
 
 <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -15,7 +16,7 @@
 
 <div align="center">
 
-##  Tech Stack
+##  Langs I Know 
 
 <img src="https://skillicons.dev/icons?i=cs,rust,ts,cpp,mongodb,nodejs,git,github,vscode,visualstudio" />
 
