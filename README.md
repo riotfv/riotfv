@@ -23,17 +23,7 @@
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=riotfv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
 
 
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riotfv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
