@@ -31,34 +31,9 @@
 
 </div>
 
----
+
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riotfv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=riotfv&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=riotfv&label=Profile+Views&color=5865F2&style=for-the-badge"/>
-
-</p>
