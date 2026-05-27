@@ -1,28 +1,29 @@
-## Hello My Name Is shxrk And Im A Developer From The United Kingdom
+<h1 align="center">riotfv</h1>
+
 <p align="center">
-
-<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
+  <b>Langs I Know</b>
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,py,html,css,tailwind,cs,cpp" />
+</p>
 
-<div align="center">
+<p align="center">
+  <sub>Learning C++</sub>
+</p>
 
+---
 
+<p align="center">
+  <b>IDEs I Use</b>
+</p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" />
+</p>
 
-<div align="center">
+---
 
-##  Langs I Know 
-
-<img src="https://skillicons.dev/icons?i=cs,rust,ts,cpp,mongodb,nodejs,git,github,vscode,visualstudio" />
-
-</div>
-
-
-
-
-
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1507338255169753118?hideTag=true&animated=true&theme=dark&borderRadius=20px" />
+</p>
